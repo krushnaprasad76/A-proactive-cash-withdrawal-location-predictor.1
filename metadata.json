@@ -1,0 +1,6 @@
+{
+  "name": "NULL-AI Blockchain & AI Security Framework",
+  "description": "Enterprise cybercrime intervention platform featuring decentralized blockchain transaction auditing, immutable logs, cross-chain sync optimization, zero-downtime migrations, real-time AI auto-training, and role-based performance dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
